@@ -1,0 +1,11 @@
+DOCE GESTÃO 3.0 - UM TERMINAL
+
+1. Configure o banco no AlwaysData e importe backend/schema.sql
+2. Copie backend/.env.example para backend/.env e preencha suas senhas localmente
+3. Abra a pasta doce-gestao no VS Code
+4. Execute: npm install
+5. Execute uma vez: npm run seed:admin
+6. Execute: npm run dev
+7. Abra http://localhost:5173
+
+Para encerrar: Ctrl+C.

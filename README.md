@@ -1,2 +1,3 @@
 # cookiestop
 trabalho_vue_para_empresaria
+//JWT_SECRET=zxcvbnm123asdfghjkl456qwertyuiop789
